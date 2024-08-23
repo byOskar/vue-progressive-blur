@@ -20,7 +20,7 @@ const count = ref(0)
 
     <div style="width:500px; height: fit-content; position:relative; border-radius: 12px;">
         <img src="https://images.unsplash.com/photo-1723984575421-b78ddfdf037f?q=80&w=3164&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="width:100%;" />
-        <ProgressiveBlur blur="64" border-radius="12" />
+        <ProgressiveBlur blur="20px" border-radius="0px" />
     </div>
 
   <p>
