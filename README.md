@@ -2,6 +2,8 @@
 
 This is a Vue implementation of [Framer's Progressive Blur](https://blur-gradient.learnframer.site/) component.
 
+![Vue Progressive Blur](example.webp)
+
 <br />
 
 ## Installation
