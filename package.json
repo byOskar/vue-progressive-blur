@@ -2,9 +2,13 @@
   "name": "vue-progressive-blur",
   "version": "0.0.2",
   "type": "module",
+    "main": "index.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/byOskar/vue-progressive-blur"
+    "url": "git+https://github.com/byOskar/vue-progressive-blur.git"
+  },
+  "bugs": {
+    "url": "https://github.com/byOskar/vue-progressive-blur/issues"
   },
   "scripts": {
     "dev": "vite",
