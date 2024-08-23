@@ -1,6 +1,7 @@
 {
   "name": "vue-progressive-blur",
-  "version": "1.0.1",
+  "description": "A Vue component that progressively blurs an image in a manner like Apple.",
+  "version": "1.0.2",
   "type": "module",
     "main": "index.ts",
   "repository": {
